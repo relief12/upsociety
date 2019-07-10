@@ -1,2 +1,1 @@
-# upsociety
-GENE
+# GENE
